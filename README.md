@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Based on Bloc Library
+- [Bloc Library](https://bloclibrary.dev/tutorials/flutter-login/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
